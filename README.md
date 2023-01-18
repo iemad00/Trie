@@ -4,4 +4,4 @@ A trie is an efficient information retrieval data structure. Using a trie, searc
 
 Every node of a trie consists of multiple branches. Each branch represents a possible character of keys. We need to mark the last node of every key as leaf node. A trie node field value will be used to distinguish the node as leaf node.
 
-As an example, a words Dictionary text file is attached, you can replace it with any dictionary you like :)
+As an example, a words dictionary text file is attached, you can replace it with any dictionary you like :)
